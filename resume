@@ -5,23 +5,42 @@
 C0758537 Resume
 
 </title>
+<link rel="stylesheet" href="css.css">
 <style>
 .city {
-  background-color: tomato;
-  color: blue;
-  padding: 10px;
-  font: 
+  background-color: skyblue;
+  color: black;
+  padding: 0.3px;
+}
+</style>
+<style>
+.cities {
+  background-color: skyblue;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  font : 70%;
+}
+</style>
+<style>
+span.note {
+  font-size: 120%;
+  color: red;
 }
 </style>
 
 </head>
 <body>
-<h1>ARSHPREET KAUR</h1>
-<p>Address: 115, MICHIGAN AVE , Brampton, ON ((L6Y4N6)<br>Phone: 6476123000                                                      Email:A13ARSHPREET@gmail.com</p>
-<h2>OBJECTIVE</h2>
-<p>Friendly,motivated and determined student seeking for a part-time job in a leading-edge company delivering quality services, to make my own professional identity 
+<div class="city"><center>
+<h2>ARSHPREET KAUR</h2></div></center>
+<p><a href="#c">Skills</a></p>
+<p><a href="#d">Personal Profile</a></p>
+<p style="font-size:20px;">Address: 115, MICHIGAN AVE , Brampton, ON ((L6Y4N6)<br>Phone: 6476123000                    <br>                                  Email:a13arshpreet@gmail.com</p>
+<h2><span style="border: 3px solid black" "padding:5px">OBJECTIVE</span></h2>
+<p style="font-size:20px;">Friendly,motivated and determined student seeking for a part-time job in a leading-edge company delivering quality services, to make my own professional identity 
 and utilize & coordinate my skills and aptitudes for the progress of the Organization.</p>
-<h3>PERSONAL PROFILE</h3>
+<span class="note"><h3 id="d">PERSONAL PROFILE</span></h3>
+<div class="cities">
 <p>
 <ul>
 <li>	Detail oriented, determined, patient, adaptive and punctual	Good leadership and presentational skills</li>
@@ -29,10 +48,10 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
 <li>	Adaptable and willing to take on any job task</li>
 <li>	Ability to work efficiently for long hours, with good time management abilities to meet deadlines</li>
 <li>	Ability to build a good rapport with the customers and the team members</li>
-<li>	Flexible  mind to work as a good team member</li>
+<li>	Flexible  mind to work as a good team member</li></div>
 </ul>
 </p>
-<h4>SKILLS/ABILITIES</h4>
+<h3 id="c">SKILLS/ABILITIES</h3>
 <table style="width:100%">
   <tr>
     <th>language</th>
