@@ -23,7 +23,7 @@ C0758537 Resume
 }
 </style>
 <style>
-span.note {
+.note {
   font-size: 120%;
   color: red;
 }
@@ -39,7 +39,7 @@ span.note {
 <h2><span style="border: 3px solid black" "padding:5px">OBJECTIVE</span></h2>
 <p style="font-size:20px;">Friendly,motivated and determined student seeking for a part-time job in a leading-edge company delivering quality services, to make my own professional identity 
 and utilize & coordinate my skills and aptitudes for the progress of the Organization.</p>
-<span class="note"><h3 id="d">PERSONAL PROFILE</span></h3>
+<div class="note"><h3 id="d">PERSONAL PROFILE</div></h3>
 <div class="cities">
 <p>
 <ul>
@@ -51,7 +51,7 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
 <li>	Flexible  mind to work as a good team member</li></div>
 </ul>
 </p>
-<h3 id="c">SKILLS/ABILITIES</h3>
+<h3 id="c"><div class="note">SKILLS/ABILITIES</div></h3>
 <table style="width:100%">
   <tr>
     <th>language</th>
@@ -73,9 +73,9 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
     <td>LR</td>
 	</tr>
 	<tr>
-	<td></td>
-	<td collspan="2">Cester college of Technology</td>
-	<td></td>
+	<td ></td>
+	<td colspan="2">Cester college of Technology</td>
+	
   </tr>
 </table>
 </BODY>
