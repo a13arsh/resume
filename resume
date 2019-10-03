@@ -35,6 +35,7 @@ C0758537 Resume
 <h2>ARSHPREET KAUR</h2></div></center>
 <p><a href="#c">Skills</a></p>
 <p><a href="#d">Personal Profile</a></p>
+<p><a href="#e">For Contact</a></p>
 <p style="font-size:20px;">Address: 115, MICHIGAN AVE , Brampton, ON ((L6Y4N6)<br>Phone: 6476123000                    <br>                                  Email:a13arshpreet@gmail.com</p>
 <h2><span style="border: 3px solid black" "padding:5px">OBJECTIVE</span></h2>
 <p style="font-size:20px;">Friendly,motivated and determined student seeking for a part-time job in a leading-edge company delivering quality services, to make my own professional identity 
@@ -59,7 +60,7 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
     <th>Tools</th>
   </tr>
   <tr>
-    <td>Java</td>
+   <td text-align: center;>Java</td>
     <td>Visual studio</td>
     <td>JIRA</td>
   </tr>
@@ -69,7 +70,7 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
     <td>QC</td>
   </tr>
   <tr>
-    <td>Javascript</td>
+    <td>Java-script</td>
     <td>LR</td>
 	</tr>
 	<tr>
@@ -78,5 +79,21 @@ and utilize & coordinate my skills and aptitudes for the progress of the Organiz
 	
   </tr>
 </table>
+<h2 id="e">Contact Me:</h2>
+
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="Lastname" value="">
+  <br>
+  Contact No.:<br>
+  <input type="text" name="Contact" value=""><br>
+  Email-Id:<br>
+  <input type="text" name="Email" value="">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
 </BODY>
 </HTML>
